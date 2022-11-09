@@ -18,6 +18,7 @@ public static void main(String[] args) {
 	sendkeys(i.getTxtUserName(), "tamil");
 	sendkeys(i.getTxtPassword(), "1234");
 	sendkeys(i.getTxtPassword(), "1234");
+	sendkeys(i.getTxtPassword(), "1234");
 	}
 	
 }
